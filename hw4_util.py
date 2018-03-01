@@ -1,4 +1,4 @@
-""" This is a utility module for Homework#4 in CSCI 1100 Fall 2015
+""" This is a utility module for in CSCI 1100 Fall 2015
 
     For part 2, use the read_zip_all function to read the pokemon
     appearance information as follows:
